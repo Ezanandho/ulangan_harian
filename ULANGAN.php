@@ -1,5 +1,5 @@
 <?php
-    echo "nomer 1<br>";
+    echo "noomer 1<br>";
     
     $nilai = array (3,6);
     echo max($nilai);
